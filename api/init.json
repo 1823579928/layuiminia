@@ -1,0 +1,39 @@
+{
+	"menuInfo": [{
+		"child": [{
+			"child": [{
+				"href": "page/welcome-1.html",
+				"icon": "fa fa-tachometer",
+				"target": "_self",
+				"title": "主页一"
+			}, {
+				"href": "page/welcome-2.html",
+				"icon": "fa fa-tachometer",
+				"target": "_self",
+				"title": "主页二"
+			}, {
+				"href": "page/welcome-3.html",
+				"icon": "fa fa-tachometer",
+				"target": "_self",
+				"title": "主页三"
+			}],
+			"href": "",
+			"icon": "fa fa-home",
+			"target": "_self",
+			"title": "主页模板"
+		}],
+		"href": "",
+		"icon": "fa fa-address-book",
+		"target": "_self",
+		"title": "常规管理"
+	}],
+	"homeInfo": {
+		"href": "page/welcome-1.html?t=1",
+		"title": "首页"
+	},
+	"logoInfo": {
+		"href": "",
+		"image": "images/logo.png",
+		"title": "dageda"
+	}
+}
